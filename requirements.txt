@@ -6,3 +6,10 @@ scikit-learn
 streamlit
 requests
 pydantic
+streamlit==1.19.0
+altair==4.2.2
+scikit-learn
+pandas
+numpy
+joblib
+
