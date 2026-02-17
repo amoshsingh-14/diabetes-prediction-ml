@@ -24,7 +24,7 @@ with col2:
 # Button centered below the columns
 st.markdown("---")
 if st.button("Predict", use_container_width=True):
-    url = "http://127.0.0.1:8000/predict"
+    url = "https://diabetes-prediction-ml-x756.onrender.com/predict"
     data = {
         "age": age,
         "gender": gender,
